@@ -1,3 +1,8 @@
+---
+title: "Silicon Discourses"
+date: 2022-07-14
+---
+
 # Silicon Discourses
 
 > “It is not that we have a short space of time, but that we waste much of it.”
