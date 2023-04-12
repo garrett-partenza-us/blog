@@ -1,4 +1,3 @@
-
 ---
 title: "Our time in history"
 date: 2023-04-11
